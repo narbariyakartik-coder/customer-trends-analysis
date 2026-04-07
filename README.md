@@ -60,9 +60,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Build presentation deck
 
 
-## 📜 License
 
-MIT — feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
 Hey, I'm Kartik Narbariya, a Data Analyst & Power BI Developer based in Pune, Maharashtra.
